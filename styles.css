@@ -412,12 +412,13 @@ span{
 }
 .project-box .btn {
     display: inline-block;
-    padding: 10px 20px;
+    padding:5px 10px;
     background-color: #020304;
     color: #fff;
     text-decoration: none;
-    border-radius: 5px;
+    border-radius: 10px;
     transition: background-color 0.3s ease;
+    width: 90px;
 }
 
 .project-box .btn:hover {
